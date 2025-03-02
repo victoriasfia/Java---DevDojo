@@ -1,2 +1,4 @@
-# Java---DevDojo
-Repositório de estudos baseado no curso de Java do DevDojo.
+# ☕ Estudos de Java - DevDojo  
+
+📚 Repositório dedicado aos meus estudos de **Java** com base no curso do **DevDojo**.  
+
